@@ -1,0 +1,6 @@
+Data/
+Liturature/
+Note/
+*.pth
+*.tar
+.DS_Store
