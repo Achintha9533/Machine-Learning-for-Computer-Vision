@@ -29,3 +29,15 @@ The model evaluates images to identify "hazards" or objects that fall outside of
 1. Clone the repository.
 2. Ensure the StreetHazards dataset is structured correctly in the `Data/` directory.
 3. Open `main.ipynb` in VS Code or Jupyter Lab and run the cells sequentially.
+
+## 📚 References
+
+[1] Standardized Max Logits: Jung, S., Lee, J., Gwak, D., Choi, S., & Choo, J. (2021). Standardized Max Logits: A Simple yet Effective Approach for Identifying Unexpected Road Obstacles in Urban-Scene Segmentation. arXiv:2107.11264.
+
+[2] DMLNet: Cen, J., Yun, P., Cai, J., Wang, M. Y., & Liu, M. (2021). Deep Metric Learning for Open World Semantic Segmentation. arXiv:2108.04562.
+
+[3] StreetHazards & OOD Scaling: Hendrycks, D., Basart, S., Mazeika, M., Zou, A., Kwon, J., Mostajabi, M., Steinhardt, J., & Song, D. (2022). Scaling Out-of-Distribution Detection for Real-World Settings. arXiv:1911.11132.
+
+[4] Residual Pattern Learning (RPL): Liu, Y., Ding, C., Tian, Y., Pang, G., Belagiannis, V., Carneiro, G., & Reid, I. (2023). Residual Pattern Learning for Pixel-wise Out-of-Distribution Detection in Semantic Segmentation. arXiv:2211.14512.
+
+[5] Open-World Segmentation: Sodano, M., Magistri, F., Nunes, L., Behley, J., & Stachniss, C. (2024). Open-World Semantic Segmentation Including Class Similarity. arXiv:2403.07532.
