@@ -1,0 +1,8 @@
+.venv/
+Data/
+Liturature/
+Note/
+*.pth
+*.png
+*.tar
+.DS_Store
