@@ -1,0 +1,14 @@
+torch
+torchvision
+torchmetrics
+pytorch-ood
+segmentation-models-pytorch
+albumentations
+focal-loss-torch
+monai
+scikit-learn
+numpy
+matplotlib
+Pillow
+tqdm
+ipython
